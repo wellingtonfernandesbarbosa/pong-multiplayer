@@ -1,1 +1,1 @@
-# pong-multiplayer
+# pong (multiplayer)
